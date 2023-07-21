@@ -117,9 +117,9 @@ nav a:hover {
     }
     .nav-list {
       position: absolute;
-      top: 8vh;
+      top: 0vh;
       right: 0;
-      width: 40vw;
+      width: 45vw;
       height: 92vh;
       background: var(--cor5);
       flex-direction: column;
